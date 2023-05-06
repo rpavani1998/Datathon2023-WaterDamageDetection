@@ -1,2 +1,5 @@
-# Datathon2023-WaterDamageDetection
-This repository contains the code submission made by Team GRIP for the Datathon2023 organized by STADS (Students Association for Data Analytics and Statistics) at Mannheim. Our participation revolved around the challenge presented by BearingPoint, which aimed to address the assessment of water damage claims 
+# Datathon2023 - Water Damage Detection
+
+This GitHub repository contains the code submission made by Team GRIP for the Datathon 2023 organized by STADS (Students Association for Data Analytics and Statistics) Mannheim. We participated in a challenge presented by BearingPoint, which focused on improving the assessment, processing, and settlement of claims in the insurance industry. The current manual process is prone to errors, time-consuming, and requires on-site experts. Our objective was to develop an AI-supported solution using computer vision methods to automate and enhance the assessment of water damage.
+
+The repository includes our code, which utilizes various methods, approaches, and models to accomplish the task. We worked with a provided dataset consisting of image material, label information, and additional features related to water damage. Although we didn't secure the top position in the hackathon, we achieved promising results through our efforts. Feel free to explore our code and findings to gain insights into our approach and potential improvements in automating damage assessment for insurance companies.
